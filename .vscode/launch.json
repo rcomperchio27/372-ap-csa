@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "day5",
+            "request": "launch",
+            "mainClass": "day5",
+            "projectName": "372-ap-csa_95a346e8"
+        },
+        {
+            "type": "java",
+            "name": "day4",
+            "request": "launch",
+            "mainClass": "day4",
+            "projectName": "372-ap-csa_95a346e8"
+        },
+        {
+            "type": "java",
             "name": "day3",
             "request": "launch",
             "mainClass": "day3",
